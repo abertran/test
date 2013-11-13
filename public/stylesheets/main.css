@@ -1,0 +1,55 @@
+html, body {
+    background: #7CFC00 !important;
+    font-family: Helvetica, Arial, Sans !important;
+}
+
+
+body {
+    width: 900px;
+    padding: 0 30px;
+    margin: auto;
+}
+
+#button {
+    background-color:#FFA500";
+    style="color:white;
+    font-weight:bold;
+   
+}
+
+#title h1 {
+    font-size: 64px;
+    margin: 0;
+    
+    
+}
+#title h2 {
+    font-size: 26px;
+    margin: 0;
+    font-weight: normal;
+}
+
+#header{
+	background-color:#FFA500;
+	text-align:center;
+	color:white;
+}
+
+#footer{
+	background-color:#FFA500;
+	clear:both;
+	text-align:center;
+}
+
+#login{
+	text-align:right;
+	
+}
+
+#soustitre{
+	background-color:#FFA500;
+	color:white;
+	text-align:left;
+	}
+	
+}
